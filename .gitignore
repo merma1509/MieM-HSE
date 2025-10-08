@@ -1,0 +1,22 @@
+.build
+.mbed
+projectfiles
+*.py[cod]
+__pycache__/
+mbed-os
+BUILD
+*.bak
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Python
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
